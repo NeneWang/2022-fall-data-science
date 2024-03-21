@@ -3,6 +3,11 @@
 
 ## Relevants Links:
 
+Capstone Project: Ecommerce Recomendation Engine
+https://github.com/NeneWang/ECommerce_behavior-streamlit/tree/main
+
+
+
 ## Syllabus 
 
 1. Data in Pandas
