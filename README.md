@@ -3,10 +3,11 @@
 
 ## Relevants Links:
 
-Capstone Project: Ecommerce Recomendation Engine
+**Capstone Project**: Ecommerce Recomendation Engine
+
 https://github.com/NeneWang/ECommerce_behavior-streamlit/tree/main
 
-
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGM0dzlrNWtlZmlzcWxvODRkZ2gzbWVlaHdzN2Jwd2U2NGx0b3Q4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3hQphp1ygkZLj0j4vP/giphy.gif)
 
 ## Syllabus 
 
